@@ -1,4 +1,5 @@
 # React Movie App
+a simple react app and used context api, useState, useEffect
 
 ## Live Demonstration
 Here are screenshots that show the Movie App application in use.
